@@ -1,0 +1,1 @@
+# Locks, mutex e atomicidade
